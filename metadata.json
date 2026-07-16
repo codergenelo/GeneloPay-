@@ -1,0 +1,6 @@
+{
+  "name": "GeneloPay",
+  "description": "Secure, enterprise payment system with multi-gateway API (Stripe, Clickpesa), Mobile Money integrations, predictive risk modeling, and a compliance dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
